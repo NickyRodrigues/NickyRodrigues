@@ -2,8 +2,8 @@
 <h3 align="center">Estudante de Sistemas de Informação em busca de uma primeira oportunidade de desenvolvedor💻</h3>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/nickyrodrigues/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/eunickyabreu/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;&nbsp
+   <a href="https://www.linkedin.com/in/nickyrodrigues/"><img height="40" src="https://img.icons8.com/fluency/48/000000/linkedin.png"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/eunickyabreu/"><img height="40" src="https://img.icons8.com/fluency/144/000000/instagram-new.png"></a>&nbsp;&nbsp
  </p>
 
 </p>

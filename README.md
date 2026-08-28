@@ -9,7 +9,7 @@
 </p>
 
  - 🥀 Aprendendo JavaScript & Python
- - 🏢 Eu trabalho na Unilider como estagiário de Infraestrutura 
+ - 🏢 Eu trabalho na Fortlev como estagiário de Suporte N1 
  - 🕹️ Quando estou livre, gosto de jogar videogame
  
  <p align="center">
